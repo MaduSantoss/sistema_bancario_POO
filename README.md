@@ -1,6 +1,6 @@
 ## 🏦 Sistema Bancário em Python
 
-Este projeto implementa um sistema bancário simples em Python, utilizando princípios de **Programação Orientada a Objetos (POO)**. Ele simula funcionalidades básicas de um banco como criação de usuários e contas, saques, depósitos e emissão de extratos.
+Este projeto implementa um sistema bancário simples em Python desenvolvido durante o Bootcamp Santander - Trilha Pyhton com a DIO, utilizando princípios de **Programação Orientada a Objetos (POO)**. Ele simula funcionalidades básicas de um banco como criação de usuários e contas, saques, depósitos e emissão de extratos.
 
 ---
 
